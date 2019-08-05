@@ -23,7 +23,7 @@ dply kill
 + `dply.conf` is of this form --
 ```
 [dply]
-useragent = XXX
+useragent = root
 cookie_rack.session = XXX
 pub_sshkey = XXX
 ```
